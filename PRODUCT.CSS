@@ -1,0 +1,173 @@
+
+img{
+    width:100px;
+    height: 50px;
+    }
+    
+    .name{
+        margin-left: 100px;
+        margin-top: -50px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .name1{
+        margin-left: 800px;
+        margin-top: -50px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: lighter;
+    }
+    .name2{
+        margin-left: 1000px;
+        margin-top: -40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: lighter;
+    }
+    .name3{
+        margin-left: 900px;
+        margin-top: -40px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-weight: lighter;
+    
+    }
+    .name4{
+        margin-left: 400px;
+        margin-top: 70px;
+    }
+    .btn{
+        margin: 50px;
+        
+
+        
+    }
+    body{
+        background-color: azure;
+        height: 1500px;
+    }
+    #fname{
+        width: 200px;
+        margin-left: 500px;
+    }
+    #pix1{
+        margin-left: 300px;
+        margin-top: 30px;
+        height: 100px;
+    }
+    .name5{
+        margin-left: 400px;
+    margin-top: -50px;
+        font-family: monospace;
+        font-weight: bold;
+    
+    }
+    .word1{
+        font-size:20px;
+        margin-left:400px ;
+        margin-top: -19px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: lighter;
+    }
+    .name6{
+        margin-left: 400px;
+    margin-top: -50px;
+        font-family: monospace;
+        font-weight: bold;
+    
+    }
+    .word2{
+        font-size:20px;
+        margin-left:400px ;
+        margin-top: -19px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: lighter;
+    }
+    .word3{
+        font-size:20px;
+        margin-left:400px ;
+        margin-top: -19px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: lighter;
+    }
+    iframe{
+        margin-left: 400px;
+        margin-top: 50px;
+    }
+    .flex-container1 {
+        display: flex;
+        background-color:azure;
+        height: 10cm;
+        width: 8cm;
+        margin-left: 2cm;
+        margin-top: 5cm;
+        border:1px solid gray;
+       
+      }
+      .flex-container2 {
+        display: flex;
+        background-color:azure;
+        height: 10cm;
+        width: 8cm;
+        margin-top: -10.1cm;
+        margin-left: 14cm;
+        border:1px solid gray;
+      }
+      .flex-container3 {
+        display: flex;
+        background-color:azure;
+        height: 10cm;
+        width: 8cm;
+        margin-left: 26cm;
+        margin-top: -10cm;
+        border:1px solid gray;
+      }
+      .foot1{
+          margin-left: 30cm;
+      }
+      .foot2{
+        margin-left: 28cm;
+    }
+    
+    .flex-container1 >.A {
+            text-align: center;
+            background-color: rgb(212, 245, 247);
+            color: black;
+            padding:15px 0;
+            width: 8cm;
+            height: 1cm;
+            font-weight: 700;
+            font-family: sans-serif;
+    }
+    
+    .flex-container2 >.S{
+        text-align: center;
+            background-color: rgb(212, 245, 247);
+            color: black;
+            padding:15px 0;
+            width: 8cm;
+            height: 1cm;
+            font-weight: 700;
+            font-family: sans-serif;}
+    
+    .Q{
+        text-align: center;
+            background-color: rgb(212, 245, 247);
+            color: black;
+            padding:15px 0;
+            width: 8cm;
+            height: 1cm;
+            font-weight: 700;
+            font-family: sans-serif;
+        }
+        footer > span {
+            margin-top: 5px;
+            display: flex;
+            justify-content: flex-end;
+            font-size: 0.9em;
+            color: #444;
+        }footer > ul > li {
+            padding: 0 10px;
+        }
+        footer > ul > li {
+    padding: 0 10px;
+}
+li {
+    list-style-type: square;
+}
