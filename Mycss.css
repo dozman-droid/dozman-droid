@@ -1,0 +1,67 @@
+.mainbox{
+    background-color: rgb(97, 149, 199);
+    
+}
+.name{
+    color: aliceblue;
+
+}
+
+.man{
+    color: aliceblue; 
+    font: 1em italic ;
+
+}
+.image{
+    opacity: 0.2;
+height: fit-content;
+width: fit-content;
+    background-size: cover;
+    
+}
+/* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .middle {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+  }
+  #fname{
+      width: 8cm;
+      font-size: medium;
+  }
+  .bg-img {
+
+    background-color: blue;
+    
+
+  }
+  .container {
+    position: absolute;
+    right: 0;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+    background-color: rgb(48, 36, 151);
+    border-radius:1em;
+    
+  }
+  #zname{
+      height: 3cm;
+      
+  }
+  
+  .btn{
+      margin:20px;
+      background-color: aquamarine;
+  }
+#value{
+    font-display: gray;
+}
+  
